@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 700" role="img" aria-label="Abstract illustrated profile portrait placeholder">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1d6870"/><stop offset="1" stop-color="#26375f"/></linearGradient>
+  <linearGradient id="shirt" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#142b3c"/><stop offset="1" stop-color="#0a1726"/></linearGradient>
+</defs>
+<rect width="600" height="700" fill="url(#bg)"/>
+<circle cx="475" cy="125" r="115" fill="#54e3d2" opacity=".12"/>
+<circle cx="90" cy="560" r="170" fill="#8abaff" opacity=".10"/>
+<path d="M85 700c20-150 112-226 215-226s195 76 215 226" fill="url(#shirt)"/>
+<path d="M210 465c16-39 48-61 90-61s74 22 90 61l-30 69H240z" fill="#b97556"/>
+<ellipse cx="300" cy="285" rx="125" ry="155" fill="#c98b6c"/>
+<path d="M174 286c-18-120 28-213 132-213 99 0 143 80 119 214-17-18-29-43-34-75-53 20-120 20-185 0-4 29-14 53-32 74z" fill="#17202d"/>
+<path d="M195 254c20-96 70-137 134-137 40 0 74 17 96 51-37-78-97-105-160-80-48 19-75 76-70 166z" fill="#202b39"/>
+<ellipse cx="253" cy="294" rx="9" ry="6" fill="#17202d"/><ellipse cx="348" cy="294" rx="9" ry="6" fill="#17202d"/>
+<path d="M275 355c16 12 34 12 50 0" fill="none" stroke="#8c4e45" stroke-width="7" stroke-linecap="round"/>
+<path d="M225 265c18-11 37-12 55-4M326 261c18-8 37-7 54 4" fill="none" stroke="#17202d" stroke-width="9" stroke-linecap="round"/>
+<path d="M218 474l82 82 82-82" fill="#e9f1f2" opacity=".9"/>
+<path d="M245 532l55 57 55-57 30 168H215z" fill="url(#shirt)"/>
+<path d="M300 589l-22 111h44z" fill="#54e3d2" opacity=".8"/>
+<text x="300" y="665" text-anchor="middle" fill="#a9f8ee" font-family="Arial,sans-serif" font-size="13" letter-spacing="4">YOUR PHOTO HERE</text>
+</svg>
